@@ -2,8 +2,8 @@
 
 
 
-![Codecov](https://github.com/shemalucien/weekend-project-1/workflows/CI/CD/badge.svg)
-![Codecov](https://img.shields.io/codecov/c/github/shemalucien/weekend-project-1)
+[![Codecov](https://github.com/shemalucien/weekend-project-1/workflows/CI/CD/badge.svg)
+![Codecov](https://img.shields.io/codecov/c/github/shemalucien/weekend-project-1)](https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg)
 
 
 
